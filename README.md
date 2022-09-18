@@ -1,0 +1,2 @@
+# prime
+Display Prime Number
